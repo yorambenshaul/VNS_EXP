@@ -1,5 +1,6 @@
 function create_stimulus_file
 % Generate stimulus files for SNT experiment
+% YBS 3/2017
 
 %%%%%%%%%%%%%%%%%
 N_blocks = 3; % Number of blocks to calculate
